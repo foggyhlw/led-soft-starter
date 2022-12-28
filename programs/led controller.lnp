@@ -1,4 +1,0 @@
-"STARTUP.obj",
-"main.obj" 
-TO "led controller" 
-RAMSIZE(256) 
